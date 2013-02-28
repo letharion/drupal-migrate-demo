@@ -1,0 +1,18 @@
+<?php
+/**
+ * @file
+ * Module file, registers migration classes with the Migrate module.
+ */
+
+/**
+ * Implements hook_migrate_api().
+ */
+function migrate_demo_part1_migrate_api() {
+  $items = array(
+    'api' => 2,
+    'migrations' => array(
+      'MigrateDemoSpeakers' => array('class_name' => 'SpeakerMigration'),
+    ),
+  );
+  return $items;
+}

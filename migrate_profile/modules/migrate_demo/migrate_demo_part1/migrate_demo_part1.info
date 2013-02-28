@@ -1,0 +1,5 @@
+name = Migrate demo part 1
+description = First part in a series of modules that demonstrate the Migrate module.
+core = 7.x
+
+files[] = speakers.inc

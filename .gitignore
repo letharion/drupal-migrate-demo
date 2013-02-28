@@ -1,0 +1,3 @@
+web*
+migrate.local/settings.php
+migrate.local/files

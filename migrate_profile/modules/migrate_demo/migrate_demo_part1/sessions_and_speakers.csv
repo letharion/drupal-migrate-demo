@@ -1,0 +1,62 @@
+"Session title","Speaker first name","Speaker last name","Speaker image path","Speaker organization","Speaker drupal user uid","Speaker drupal username","Session description","Session experience level"
+"It's not their Drupal, It's our Drupal","Morten","Birch Heide-Jørgensen","http://spring2013.drupalcamp.se/sites/default/files/avatar/morten_1.png","geek Röyale","65676","mortendk","The ballad of Drupal
+How did we go from being 40 geeks in a basement to a Community with Drupals all over the world & not a weekend without a gathering somewhere on the planet.
+The two legged monster
+In the world of Drupal we have two major dominant groups, that are usually in direct opposition: Tree hugging hippies & the greedy evil capitalist (!) In the kingdom of Drupal these 2 factions have (so far) been able to live in almost peace, what can we gain from that duality & can they keep work together in the Drupalsphere.
+The Evil Empire
+Why do we need a Drupal Association ?
+What do they do with the millions (no trillions of usd) ;)
+What can the DA do for you
+Structure, understanding & benefits
+A Gathering of Geeks
+The gatherings around the world have been a huge factor in the growth of the Drupal community.
+The importance of meeting person to person may look from the outside as a simple excuse to hang out, party & take a vacation to exotic new places (from naked in Copenhagen, to dancing with dinosaurs in chicago & drinks on the beach in sydney)
+What can we learn from this & do it have an factor in the way we write code?
+at first light we ride!
+We came for the code & are staying for the community.
+How do we keep the growth, focus & not forget the sheer enjoyment of creating something thats a bit bigger than our self.
+Where is your role in all this, do you even have a role & is it okay to just wanna fix that goddamn bug, and not care about Drupal's COC (and is that actually an animal?) can you participate in core development without submitting bugs (hint yes you can)
+mortendk is a veteran from the battlefields in the Drupal community. Besides arranging countless drupalcamps, making Drupal beer with world renowned mikkeller brewery, leading a DrupalCon (Copenhagen), he is also part of the rising of Frontend love with the underground army Frontend United.
+He's proud as f... and very happy to have been elected by the community to be their voice for the next year on the Drupal Association Board, a voice that is not known to be silent.
+","Beginner"
+"Maintainable Drupal Theming","Jan-Yves"," Vanhaverbeke","http://spring2013.drupalcamp.se/sites/default/files/avatar/janyves.jpg","Wunderkraut","591438","jyve","Learn how to go beyond basic Drupal Theming and master the art of building a professional Frontend for your projects.
+- Why is Drupal special for Frontend Developers?
+- Optimize the design input.
+- Take control of your Drupal HTML.
+- Write flexible CSS
+- Build a maintainable Theme that works for small and large projects using a clear workflow and the power of SASS.
+- Short demo: Wundertheme
+","Intermediate"
+"Panel debate","","","","","","","","Beginner"
+"10 steg till att bli en bra sajtägare och beställare av Drupalprojekt!","Fabian","von Tiedemann","http://spring2013.drupalcamp.se/sites/default/files/avatar/fabian_0.jpg","Wunderkraut","29734","fabianvontiedemann","Den här sessionen riktar sig mot personer, företag & organisationer som funderar på att bygga, köpa eller videareutveckla en sajt i Drupal. Hur får du ut så mycket som möjligt av din investering? Vilka är de klassiska misstagen du bör undvika och hur blir du en beställare som alltid levererar lyckade projekt? Hur påverkar ditt agerande som beställare projektets budget?
+Tomas Persson och Fabian von Tiedemann har lång erfarenhet av att sälja och driva projekt baserade på Drupal.
+","Beginner"
+"10 steg till att bli en bra sajtägare och beställare av Drupalprojekt!","Tomas","Persson","http://spring2013.drupalcamp.se/sites/default/files/avatar/tomasp.jpg","Wunderkraut","143809","tomper00","Den här sessionen riktar sig mot personer, företag & organisationer som funderar på att bygga, köpa eller videareutveckla en sajt i Drupal. Hur får du ut så mycket som möjligt av din investering? Vilka är de klassiska misstagen du bör undvika och hur blir du en beställare som alltid levererar lyckade projekt? Hur påverkar ditt agerande som beställare projektets budget?
+Tomas Persson och Fabian von Tiedemann har lång erfarenhet av att sälja och driva projekt baserade på Drupal.
+","Beginner"
+"Code sprint","","","","","","","Denna sprint är en del av en global drupalsprint se http://groups.drupal.org/node/277768 och kommer hållas i Stockholm 09:00 till 16:00 i centrala Stockholm. Mer info kommer komma löpande på drupalcamp.se.
+Under sprinten har du möjlighet att lära dig hur man arbetar med Drupals issueköer, skapar patchar och följer upp dina ärenden.
+Anmäl dig på http://groups.drupal.org/node/280353 (genom knappen signup när du är inloggad) så kan vi hålla koll på hur många som kommer på sprinten.
+In English:
+Saturday 9:th of march there will be a code sprint in central Stockholm. The sprint is part of a global Drupal sprint weekend. The sprint will be held from 9 - 16.
+Take the possibility to get familiar with the issue queues, how to create patches and how to follow up on your issues.
+","Beginner"
+"Drupal vs. WordPress: Kramfajten","Thord Daniel","Hedengren","http://spring2013.drupalcamp.se/sites/default/files/avatar/2012-01-26_d700_thord_daniel_hedengren_dsc2465-square.jpg","Odd Alice","","","","Beginner"
+"Practical Examples of Estimating a project","Jakob","Persson","http://spring2013.drupalcamp.se/sites/default/files/avatar/sommar-2011-1b.jpg","","37564","solipsist","What usually happens before you get started planning, designing, writing and coding is estimation. Your customer wants to know what the party will cost them. It’s a tricky question to answer. This session combines learning from experienced project managers as well as the opportunity to ask the experts your questions.
+The problem
+Drupal estimation is risky business for a lot of reasons. Two of the biggest issues are understanding what the client really wants, or can do away with, and knowing what techniques will get you the most accurate estimate.
+Why this session is good
+Because experts who have been down difficult estimation roads will share their knowledge and help you to interpret the client’s needs.
+What you will take away from this session
+Ways to identify issues around estimation, and solutions to solve them.
+","Beginner"
+"Practical Examples of Estimating a project","Shannon","Vettes","http://spring2013.drupalcamp.se/sites/default/files/avatar/hzz0mlum1foeoxnkai8b.jpeg","Commerce Guys","1115416","svettes","What usually happens before you get started planning, designing, writing and coding is estimation. Your customer wants to know what the party will cost them. It’s a tricky question to answer. This session combines learning from experienced project managers as well as the opportunity to ask the experts your questions.
+The problem
+Drupal estimation is risky business for a lot of reasons. Two of the biggest issues are understanding what the client really wants, or can do away with, and knowing what techniques will get you the most accurate estimate.
+Why this session is good
+Because experts who have been down difficult estimation roads will share their knowledge and help you to interpret the client’s needs.
+What you will take away from this session
+Ways to identify issues around estimation, and solutions to solve them.
+","Beginner"
+"Symfony intro","Tobias","Sjösten","http://spring2013.drupalcamp.se/sites/default/files/avatar/04ce4aa9f079c590959ba7c47276549f.jpeg","","213383","tobiassjosten","Symfony is sweeping the PHP world by its feet, leaving not even our dearest CMS untouched. Come learn how Dependency Injection, Event Dispatching and Request/Response alignment will help us build cutting edge websites.
+","Intermediate"
